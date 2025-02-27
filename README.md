@@ -1,2 +1,2 @@
 # Task CLI
-[Project Info](https://roadmap.sh/projects/task-tracker)
+# https://roadmap.sh/projects/task-tracker
