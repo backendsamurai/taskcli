@@ -3,5 +3,5 @@
 
 # Usage
 - Clone repo
-- Go to `target` directory
+- Go to `bin` directory
 - Run executable `task-cli` file
